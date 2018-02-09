@@ -1,0 +1,22 @@
+h1{
+  color: coral;
+  font-size: 38px;
+  font-style:italic;
+}
+h2{
+  font-size: 30px;
+  color:red;
+}
+p{
+  font-size: 18px;
+  font-style:normal;
+  color: steelblue;
+}
+#sidebar{
+  float: right;
+  width: 30%;
+  background-color:coral;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
